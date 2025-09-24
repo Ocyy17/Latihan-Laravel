@@ -1,0 +1,2 @@
+https://github.com/Ocyy17/Latihan-Laravel.git (LINK REPO LAT LARAVEL)
+https://github.com/Ocyy17/Latihan-Laravel/tree/ToDo-App (LAT ToDo App)
